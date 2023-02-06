@@ -1,0 +1,13 @@
+.subform-parent {
+  overflow: auto;
+  margin-bottom: 30px;
+}
+
+.doc-upload > input {
+  display: none;
+}
+
+.select-custom {
+  width: max-content;
+  min-width: 100%;
+}

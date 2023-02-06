@@ -1,0 +1,8 @@
+.table.table-no--mb{
+    margin-bottom: 0px;
+}
+
+.report-action-button{
+    color: #007bff;
+    cursor: pointer;
+}
